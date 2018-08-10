@@ -1,0 +1,165 @@
+2018-07-17 15:45:17 INFO  LoginController:41 - Inside controller : log
+2018-07-17 15:52:45 INFO  LoginController:40 - Inside controller
+2018-07-17 15:52:45 INFO  LoginController:41 - Inside controller : log
+2018-07-17 15:52:51 INFO  LoginController:55 - inside SignIn Action
+2018-07-17 15:52:51 INFO  LoginController:56 - hgriug
+2018-07-17 15:52:51 INFO  LoginController:57 - fhgewiu
+2018-07-17 15:52:51 WARN  LoginService:20 - Inside Service : Login
+2018-07-17 15:52:51 WARN  LoginService:22 - hgriug
+2018-07-17 15:52:51 WARN  LoginService:23 - fhgewiu
+2018-07-17 15:52:51 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-17 15:52:51 DEBUG LoginRepository:20 - hgriug
+2018-07-17 15:52:51 DEBUG LoginRepository:21 - fhgewiu
+2018-07-19 12:37:14 INFO  LoginController:40 - Inside controller
+2018-07-19 12:37:14 INFO  LoginController:41 - Inside controller : log
+2018-07-19 14:55:54 WARN  LoginService:20 - Inside Service : Login
+2018-07-19 14:55:55 WARN  LoginService:22 - abc
+2018-07-19 14:55:55 WARN  LoginService:23 - 12345
+2018-07-19 14:55:55 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-19 14:55:55 DEBUG LoginRepository:20 - abc
+2018-07-19 14:55:55 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:01:48 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:01:48 WARN  LoginService:22 - abc
+2018-07-21 15:01:48 WARN  LoginService:23 - 12345
+2018-07-21 15:01:48 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:01:48 DEBUG LoginRepository:20 - abc
+2018-07-21 15:01:48 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:12:57 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:12:57 WARN  LoginService:22 - abc
+2018-07-21 15:12:57 WARN  LoginService:23 - 12345
+2018-07-21 15:12:57 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:12:57 DEBUG LoginRepository:20 - abc
+2018-07-21 15:12:57 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:32:39 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:32:39 WARN  LoginService:22 - abc
+2018-07-21 15:32:39 WARN  LoginService:23 - 12345
+2018-07-21 15:32:39 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:32:39 DEBUG LoginRepository:20 - abc
+2018-07-21 15:32:39 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:45:36 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:45:36 WARN  LoginService:22 - abc
+2018-07-21 15:45:36 WARN  LoginService:23 - 12345
+2018-07-21 15:45:36 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:45:36 DEBUG LoginRepository:20 - abc
+2018-07-21 15:45:36 DEBUG LoginRepository:21 - 12345
+2018-07-21 15:55:01 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 15:55:01 WARN  LoginService:22 - abc
+2018-07-21 15:55:01 WARN  LoginService:23 - 12345
+2018-07-21 15:55:01 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 15:55:01 DEBUG LoginRepository:20 - abc
+2018-07-21 15:55:01 DEBUG LoginRepository:21 - 12345
+2018-07-21 16:03:27 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 16:03:27 WARN  LoginService:22 - abc
+2018-07-21 16:03:27 WARN  LoginService:23 - 12345
+2018-07-21 16:03:27 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 16:03:27 DEBUG LoginRepository:20 - abc
+2018-07-21 16:03:27 DEBUG LoginRepository:21 - 12345
+2018-07-21 17:00:16 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 17:00:16 WARN  LoginService:22 - abc
+2018-07-21 17:00:16 WARN  LoginService:23 - 12345
+2018-07-21 17:00:16 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 17:00:16 DEBUG LoginRepository:20 - abc
+2018-07-21 17:00:16 DEBUG LoginRepository:21 - 12345
+2018-07-21 17:02:57 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 17:02:57 WARN  LoginService:22 - abc
+2018-07-21 17:02:57 WARN  LoginService:23 - 12345
+2018-07-21 17:02:57 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 17:02:57 DEBUG LoginRepository:20 - abc
+2018-07-21 17:02:57 DEBUG LoginRepository:21 - 12345
+2018-07-21 17:05:06 WARN  LoginService:20 - Inside Service : Login
+2018-07-21 17:05:06 WARN  LoginService:22 - abc
+2018-07-21 17:05:06 WARN  LoginService:23 - 12345
+2018-07-21 17:05:06 DEBUG LoginRepository:18 - Inside Repository : Login
+2018-07-21 17:05:06 DEBUG LoginRepository:20 - abc
+2018-07-21 17:05:06 DEBUG LoginRepository:21 - 12345
+2018-07-26 20:40:19 INFO  LoginController:40 - Inside controller
+2018-07-26 20:40:19 INFO  LoginController:41 - Inside controller : log
+2018-07-26 20:40:31 INFO  LoginController:55 - inside SignIn Action
+2018-07-26 20:40:31 INFO  LoginController:56 - taksh
+2018-07-26 20:40:31 INFO  LoginController:57 - 1234
+2018-07-26 20:40:31 WARN  LoginService:20 - Inside Service : Login
+2018-07-26 20:40:31 WARN  LoginService:22 - taksh
+2018-07-26 20:40:31 WARN  LoginService:23 - 1234
+2018-07-26 20:40:31 DEBUG LoginRepository:21 - Inside Repository : Login
+2018-07-26 20:40:31 DEBUG LoginRepository:23 - taksh
+2018-07-26 20:40:31 DEBUG LoginRepository:24 - 1234
+2018-07-28 15:22:47 INFO  LoginController:40 - Inside controller
+2018-07-28 15:22:47 INFO  LoginController:41 - Inside controller : log
+2018-07-28 15:48:16 INFO  UserController:40 - Inside controller
+2018-07-28 15:48:16 INFO  UserController:41 - Inside controller : log
+2018-07-28 15:48:36 INFO  UserController:55 - inside User Action
+2018-07-28 15:48:36 INFO  UserController:56 - Takshmalviya23@gmail.com
+2018-07-28 15:48:36 INFO  UserController:57 - 12345
+2018-07-28 15:48:36 WARN  UserService:20 - Inside Service : Login
+2018-07-28 15:48:36 WARN  UserService:22 - Takshmalviya23@gmail.com
+2018-07-28 15:48:36 WARN  UserService:23 - 12345
+2018-07-28 15:48:37 DEBUG UserRepository:21 - Inside Repository : Login
+2018-07-28 15:48:37 DEBUG UserRepository:23 - Takshmalviya23@gmail.com
+2018-07-28 15:48:37 DEBUG UserRepository:24 - 12345
+2018-07-28 16:11:24 INFO  UserController:40 - Inside controller
+2018-07-28 16:11:24 INFO  UserController:41 - Inside controller : log
+2018-07-28 16:12:13 INFO  UserController:55 - inside User Action
+2018-07-28 16:12:13 INFO  UserController:56 - Takshmalviya23@gmail.com
+2018-07-28 16:12:13 INFO  UserController:57 - 123
+2018-07-28 16:12:13 WARN  UserService:20 - Inside Service : Login
+2018-07-28 16:12:13 WARN  UserService:22 - Takshmalviya23@gmail.com
+2018-07-28 16:12:13 WARN  UserService:23 - 123
+2018-07-28 16:12:13 DEBUG UserRepository:21 - Inside Repository : Login
+2018-07-28 16:12:13 DEBUG UserRepository:23 - Takshmalviya23@gmail.com
+2018-07-28 16:12:13 DEBUG UserRepository:24 - 123
+2018-07-30 10:46:55 INFO  UserController:28 - Inside controller
+2018-07-30 10:46:56 INFO  UserController:29 - Inside controller : log
+2018-07-30 10:46:58 INFO  UserController:28 - Inside controller
+2018-07-30 10:46:58 INFO  UserController:29 - Inside controller : log
+2018-07-30 10:47:36 INFO  UserController:36 - inside User Action
+2018-07-30 10:47:36 INFO  UserController:37 - shubham58@gmail.com
+2018-07-30 10:47:36 INFO  UserController:38 - 12365
+2018-07-30 10:47:36 WARN  UserServiceImp:26 - Inside Service : createUser
+2018-07-30 10:47:36 WARN  UserServiceImp:27 - shubham58@gmail.com
+2018-07-30 10:47:36 WARN  UserServiceImp:28 - 12365
+2018-07-31 15:48:28 INFO  UserController:28 - Inside controller
+2018-07-31 15:48:28 INFO  UserController:29 - Inside controller : log
+2018-07-31 16:19:43 INFO  UserController:36 - inside User Action
+2018-07-31 16:19:43 INFO  UserController:37 - vishalpatidar54@gmail.com
+2018-07-31 16:19:43 INFO  UserController:38 - 7
+2018-07-31 16:19:43 WARN  UserServiceImp:26 - Inside Service : createUser
+2018-07-31 16:19:43 WARN  UserServiceImp:27 - vishalpatidar54@gmail.com
+2018-07-31 16:19:43 WARN  UserServiceImp:28 - 7
+2018-07-31 16:47:44 INFO  UserController:29 - Inside controller
+2018-07-31 16:47:44 INFO  UserController:30 - Inside controller : log
+2018-07-31 16:50:00 INFO  UserController:29 - Inside controller
+2018-07-31 16:50:00 INFO  UserController:30 - Inside controller : log
+2018-07-31 16:55:32 INFO  UserController:29 - Inside controller
+2018-07-31 16:55:32 INFO  UserController:30 - Inside controller : log
+2018-07-31 16:55:44 INFO  UserController:29 - Inside controller
+2018-07-31 16:55:44 INFO  UserController:30 - Inside controller : log
+2018-08-01 17:54:16 INFO  UserController:25 - Inside controller
+2018-08-01 17:54:16 INFO  UserController:26 - Inside controller : log
+2018-08-01 18:34:21 INFO  UserController:26 - Inside controller
+2018-08-01 18:34:21 INFO  UserController:27 - Inside controller : log
+2018-08-01 18:34:37 INFO  UserController:34 - inside User Action
+2018-08-01 18:34:37 INFO  UserController:35 - c
+2018-08-01 18:34:37 INFO  UserController:36 - 123
+2018-08-01 18:34:37 WARN  UserServiceImp:26 - Inside Service : createUser
+2018-08-01 18:34:37 WARN  UserServiceImp:27 - c
+2018-08-01 18:34:37 WARN  UserServiceImp:28 - 123
+2018-08-01 18:39:51 INFO  UserController:26 - Inside controller
+2018-08-01 18:39:51 INFO  UserController:27 - Inside controller : log
+2018-08-01 18:40:08 INFO  UserController:34 - inside User Action
+2018-08-01 18:40:08 INFO  UserController:35 - Takshmalviya23@gmail.com
+2018-08-01 18:40:08 INFO  UserController:36 - 15415154
+2018-08-01 18:40:08 WARN  UserServiceImp:26 - Inside Service : createUser
+2018-08-01 18:40:08 WARN  UserServiceImp:27 - Takshmalviya23@gmail.com
+2018-08-01 18:40:08 WARN  UserServiceImp:28 - 15415154
+2018-08-01 19:07:23 INFO  UserController:34 - inside User Action
+2018-08-01 19:07:23 INFO  UserController:35 - Takshmalviya23@gmail.com
+2018-08-01 19:07:23 INFO  UserController:36 - 15415154
+2018-08-01 19:07:23 WARN  UserServiceImp:26 - Inside Service : createUser
+2018-08-01 19:07:23 WARN  UserServiceImp:27 - Takshmalviya23@gmail.com
+2018-08-01 19:07:23 WARN  UserServiceImp:28 - 15415154
+2018-08-01 19:36:29 INFO  UserController:27 - Inside controller
+2018-08-01 19:36:29 INFO  UserController:28 - Inside controller : log
+2018-08-01 19:47:13 INFO  UserController:27 - Inside controller
+2018-08-01 19:47:13 INFO  UserController:28 - Inside controller : log
+2018-08-01 19:47:32 INFO  UserController:51 - Inside controller : deleteUser
+2018-08-01 19:47:32 INFO  UserController:52 - Inside controller : log

@@ -1,0 +1,32 @@
+package com.aartek.repository;
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.aartek.model.User;
+
+@Repository
+public class LoginRepository {
+
+	@Autowired
+	LoginRepository loginrepository;
+	
+	final static Logger logger = Logger.getLogger(LoginRepository.class);
+	public String checkLogin(User login)
+	{
+		logger.debug("Inside Repository : Login");
+		
+		logger.debug(login.getEmail());
+		logger.debug(login.getPassword());
+		return "hello";
+	}
+	public Boolean loginRepoCheck(String email,String password)
+	{
+		System.out.println("Inside LoginRepository : loginRepoCheck() ");
+		System.out.println(email);
+		System.out.println(password);
+		return false;
+		
+	}
+}

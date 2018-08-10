@@ -1,0 +1,12 @@
+package com.aartek.service;
+
+import com.aartek.model.Product;
+
+public class ProductService {
+	public Product getProduct(Product product)
+	{
+		System.out.println("Inside Product Service ");
+		return product;
+	}
+
+}

@@ -1,0 +1,24 @@
+package com.aartek.model;
+
+import java.io.Serializable;
+import java.util.List;
+
+import javax.persistence.Column;
+import javax.persistence.JoinColumn;
+import javax.persistence.OneToMany;
+
+public class Product implements Serializable {
+
+	@Column(name="productID")
+	private Integer productID;
+	private String productName;
+	private String description;
+	private String noProduct;
+	private String price;
+	
+	OneToMany(targetEntity=ProductImage.class,cascade=CascadeType.ALL)
+	@JoinColumn(name="productID",referencedColumnName="productID")
+	private List<ProductImage> productImage;
+	
+	
+}

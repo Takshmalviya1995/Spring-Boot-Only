@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Test.java&apos; to &apos;springbootService/src/main/java/com.aartek.service&apos;&#x0D;&#x0A;- Original project: &apos;springbootWeb&apos;&#x0D;&#x0A;- Destination element: &apos;springbootService/src/main/java/com.aartek.service&apos;&#x0D;&#x0A;- Original element: &apos;com.aartek.controller.Test.java&apos;" description="Copy compilation unit" destination="=springbootService/src\/main\/java&lt;com.aartek.service" element1="/src\/main\/java&lt;com.aartek.controller{Test.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1531726726407" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+package com.aartek.service;
+
+public class ProductService {
+	public Product getProduct(Product product)
+	{
+		return product;
+	}
+
+}

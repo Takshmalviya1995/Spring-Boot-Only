@@ -1,0 +1,11 @@
+package com.aartek.service;
+
+import com.aartek.model.Product;
+
+public class ProductService {
+	public Product getProduct(Product product)
+	{
+		return product;
+	}
+
+}

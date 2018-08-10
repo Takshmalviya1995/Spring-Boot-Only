@@ -1,0 +1,11 @@
+package com.aartek.model;
+
+import java.io.Serializable;
+
+public class ProductImage implements Serializable{
+
+	private Integer imageId;
+	private String imageName;
+	private String image;
+	
+}
